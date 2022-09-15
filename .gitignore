@@ -1,0 +1,10 @@
+#to ignore a single file
+mymod
+
+#ignore a directory
+temp/
+jdk/
+
+#ignore all log files
+*.log
+
